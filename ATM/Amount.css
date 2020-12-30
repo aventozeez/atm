@@ -1,0 +1,28 @@
+*{
+			box-sizing:border-box;	
+			
+				
+				}
+.rol{
+				display:flex;
+				
+				
+				}
+.col{
+			flex:50%;
+			padding:10px;
+			height:500px;
+			max-width:2000px;
+			color:blue;
+			
+				
+				}
+.com{
+			flex:50%;
+			padding:10px;
+			height:500px;
+			color:blue;
+			border:3px;
+			
+			
+			}
